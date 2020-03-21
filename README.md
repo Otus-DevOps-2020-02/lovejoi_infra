@@ -13,3 +13,8 @@ Host someinternalhost
     IdentityFile ~/.ssh/appuser
     ProxyCommand ssh appuser@34.77.141.164 -W %h:%p
 
+# Information regarding  cloud servers
+
+bastion_IP = 35.241.172.123
+someinternalhost = 10.132.0.3
+
