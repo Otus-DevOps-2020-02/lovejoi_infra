@@ -23,3 +23,7 @@ someinternalhost_IP = 10.132.0.3
 
 testapp_IP   = 35.205.111.192 
 testapp_port = 9292
+
+# For Run  startup-script-url from gcloud just run file just check project id.
+
+# For add Rule on GCloud Firewall run script default-puma-server
