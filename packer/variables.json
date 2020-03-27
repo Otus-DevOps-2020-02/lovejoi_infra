@@ -8,7 +8,7 @@
             "disk_type": "pd-standard",
             "image_description": "image for application",
             "tags": "puma-server",
-	        "network": "default"
+	    "network": "default"
             
         }
     ]
