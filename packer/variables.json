@@ -1,0 +1,16 @@
+{
+    "variables": [
+        {
+            "project_id": "infra-271411",
+            "source_image_family": "ubuntu-1604-lts",
+            "machine_type": "f1-micro",
+            "disk_size": "10GB",
+            "disk_type": "pd-standard",
+            "image_description": "image for application",
+            "tags": "puma-server" 
+            
+        }
+    ]
+}
+
+
