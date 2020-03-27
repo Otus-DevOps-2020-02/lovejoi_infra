@@ -10,6 +10,9 @@
             "machine_type": "{{ user `machine_type` }}",
             "ssh_username": "appuser",
             "image_description": "{{user `image_description`}}",
+	        "disk_size": "{{user `disk_size`}}",
+	        "disk_type": "{{user `disk_type`}}",
+	        "network": "{{user `network`}}",
             "tags": "{{user `tags`}}"
         }
     ],
