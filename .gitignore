@@ -1,1 +1,5 @@
-/home/oleg/OTUS/Lessons/Lesson7/lovejoi_infra/packer/varialbles.json
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+*.tfvars
+.terraform/
